@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby18 -wKU
+#!/usr/bin/env ruby20 -w
 
 # This script is run from `TM_MARKDOWN_POST_FILTER`: It receives the already
 # rendered markdown document via $stdin and is expected to output a filtered
